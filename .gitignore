@@ -169,3 +169,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# vim swap
+*.swp
+
+# database
+*.db
+*.dbb
+
+# selenium driver
+geckodriver
