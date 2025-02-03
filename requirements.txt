@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.3
+py3_wkhtmltopdf==0.4.1
+pyTelegramBotAPI==4.26.0
+Requests==2.32.3
+selenium==4.28.1
