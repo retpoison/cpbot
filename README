@@ -1,0 +1,14 @@
+Competitive programming telegram bot
+
+This program downloads problems from websites like CodeForces and Quera as pdf and uploads them to telegram.
+
+Run
+---
+run 
+  git clone https://github.com/retpoison/cpbot.git
+  cd cpbot/
+  pip install -r requirements.txt
+  python3 main.py
+
+download firefox selenium driver to cpbot folder from this link:
+https://pypi.org/project/selenium/
